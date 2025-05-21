@@ -2,17 +2,9 @@
 <h3 align="center">I'm an information technology student with a passion for coding.</h3>
 
 <!-- Thêm GIF và Connect with me -->
-<table align="center" style="border: 0; border-collapse: collapse; outline: none;" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0; padding: 0;"><img src="https://maisan.sakuraji.ma/img/transparent/progression.png" alt="Welcome GIF" width="300" /></td>
-    <td style="border: 0; padding: 0;">
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://fb.com/https://www.facebook.com/duyy.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/duyy.me/" height="30" width="40" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+  <img src="https://maisan.sakuraji.ma/img/transparent/progression.png" width="300" align="left"/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -25,3 +17,14 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+
+
+<h3 align="left" >Connect with me:</h3>
+<a href="https://www.facebook.com/duyy.me/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
+</a>
+
+
+
+
+
