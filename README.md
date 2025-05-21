@@ -1,4 +1,27 @@
-![image](https://c4.wallpaperflare.com/wallpaper/168/774/443/anime-violet-evergarden-violet-evergarden-character-wallpaper-preview.jpg)
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pham Phuc Duy</h1>
+<h3 align="center">I'm an information technology student with a passion for coding.</h3>
 
-My name is Duy ✨ I'm a student at PTIT ✨ 
+<!-- Thêm GIF và Connect with me -->
+<table align="center" style="border: 0; border-collapse: collapse; outline: none;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0; padding: 0;"><img src="https://maisan.sakuraji.ma/img/transparent/progression.png" alt="Welcome GIF" width="300" /></td>
+    <td style="border: 0; padding: 0;">
+      <h3 align="left">Connect with me:</h3>
+      <p align="left">
+        <a href="https://fb.com/https://www.facebook.com/duyy.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/duyy.me/" height="30" width="40" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+</p>
