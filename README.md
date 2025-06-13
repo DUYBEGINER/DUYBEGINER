@@ -3,7 +3,7 @@
 
 <!-- Thêm GIF và Connect with me -->
 
-  <img src="https://maisan.sakuraji.ma/img/transparent/progression.png" width="300" align="left"/>
+  <img src="https://sticker-collection.com/stickers/plain/mai_sakurajima/512/a6202621-704e-4314-9593-d3f36adbde08file_3070436.webp" width="300" align="left"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
