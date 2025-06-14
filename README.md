@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pham Phuc Duy</h1>
+<h1 align="center">Hi, I'm Pham Phuc Duy 👋</h1>
 <h3 align="center">I'm an information technology student with a passion for coding.</h3>
 
+
 <!-- Thêm GIF và Connect with me -->
+<img src="https://sticker-collection.com/stickers/plain/mai_sakurajima/512/a6202621-704e-4314-9593-d3f36adbde08file_3070436.webp" width="300" align="left"/>
 
-  <img src="https://sticker-collection.com/stickers/plain/mai_sakurajima/512/a6202621-704e-4314-9593-d3f36adbde08file_3070436.webp" width="300" align="left"/>
+<br/>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -18,12 +20,34 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-
 <h3 align="left" >Connect with me:</h3>
 <a href="https://www.facebook.com/duyy.me/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
 </a>
 
+---
+
+<br/>
+
+
+
+
+<h2>My stats ⭐</h2>
+
+<div align="center">
+<img alt="DUYBEGINER's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DUYBEGINER&show_icons=true&theme=radical"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUYBEGINER&layout=compact&&langs_count=8&theme=radical"/>
+</div>
+
+
+
+### <h2>My project </h2>
+
+
+<div>
+  <img alt="DUYBEGINER's GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko"/>
+<!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
+</div>
 
 
 
