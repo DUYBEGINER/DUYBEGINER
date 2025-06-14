@@ -45,8 +45,9 @@
 
 
 <div>
-  <img alt="DUYBEGINER's GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko"/>
-<!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
+<!--   <img alt="DUYBEGINER's GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko"/> -->
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko)](https://github.com/DUYBEGINER/tour-booking-web.git)
 </div>
 
 
