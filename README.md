@@ -41,12 +41,11 @@
 
 
 
-### <h2>My project </h2>
+### <h2>My project 📌</h2>
 
 
 <div>
-<!--   <img alt="DUYBEGINER's GitHub stats" src="https://github-readme-stats.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko"/> -->
-  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko)](https://github.com/DUYBEGINER/tour-booking-web.git)
 </div>
 
