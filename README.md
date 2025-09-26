@@ -37,6 +37,7 @@
 <div align="center">
 <img alt="DUYBEGINER's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DUYBEGINER&show_icons=true&theme=radical"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUYBEGINER&layout=compact&&langs_count=8&theme=radical"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duybeginer&theme=dark" alt="duybeginer" /></p>
 </div>
 
 
