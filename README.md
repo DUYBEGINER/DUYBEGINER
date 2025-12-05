@@ -29,7 +29,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DUYBEGINER&theme=dark)](https://git.io/streak-stats)
+
 
 
 <h2>My stats ⭐</h2>
@@ -37,8 +37,8 @@
 <div align="center">
 <img alt="DUYBEGINER's GitHub stats" src="https://myprofilestat.vercel.app/api?username=DUYBEGINER&show_icons=true&theme=radical"/>
 <img alt="Top langs" src="https://myprofilestat.vercel.app/api/top-langs/?username=DUYBEGINER&layout=compact&&langs_count=8&theme=radical"/>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=DUYBEGINER&theme=dark)](https://git.io/streak-stats)" alt="duybeginer" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-olive-56.vercel.app?user=DUYBEGINER&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ### <h2>My project 📌</h2>
