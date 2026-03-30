@@ -76,5 +76,5 @@
 
 <div>
 
-[![Readme Card](https://myprofilestat.vercel.app/api/pin/?username=DUYBEGINER&repo=tour-booking-web&theme=merko)](https://github.com/DUYBEGINER/tour-booking-web.git)
+[![Readme Card](https://myprofilestat-git-main-duybeginers-projects.vercel.app/api/pin/?username=DUYBEGINER&repo=book-recommendation-system-backend&theme=merko)]([https://github.com/DUYBEGINER/tour-booking-web.git](https://github.com/DUYBEGINER/book-recommendation-system-backend.git))
 </div>
