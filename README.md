@@ -60,10 +60,11 @@
 
 
 
+
 <h2>My stats ⭐</h2>
 
 <div align="center">
-<img alt="DUYBEGINER's GitHub stats" src="https://myprofilestat.vercel.app/api?username=DUYBEGINER&show_icons=true&theme=radical"/>
+<img alt="DUYBEGINER's GitHub stats" src="https://github-readme-streak-stats-git-main-duybeginers-projects.vercel.app/api?username=DUYBEGINER&show_icons=true&theme=radical"/>
 <img alt="Top langs" src="https://myprofilestat.vercel.app/api/top-langs/?username=DUYBEGINER&layout=compact&&langs_count=8&theme=radical"/>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-olive-56.vercel.app?user=DUYBEGINER&theme=tokyonight" alt="GitHub Streak" /></a>
