@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Pham Phuc Duy 👋</h1>
 <h3 align="center">I'm an information technology student with a passion for coding.</h3>
 
-
 <!-- Thêm GIF và Connect with me -->
-<img src="https://sticker-collection.com/stickers/plain/mai_sakurajima/512/a6202621-704e-4314-9593-d3f36adbde08file_3070436.webp" width="300" align="left"/>
+<img src="https://i.ibb.co/Z1HcSPDw/background-removed-background-removed.png" width="300" align="left"/>
 
 <br/>
 
