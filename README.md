@@ -1,17 +1,22 @@
 <h1 align="center">Hi, I'm Pham Phuc Duy 👋</h1>
 <h3 align="center">I'm an information technology student with a passion for coding.</h3>
 
+<!-- Thêm GIF và Connect with me -->
+<img src="https://i.ibb.co/Z1HcSPDw/background-removed-background-removed.png" width="300" align="left"/>
+
 <br/>
 
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">💻 Tech Stack:</h3> <a align="left"><img src="https://skillicons.dev/icons?i=docker,express,firebase,java,js,mysql,nodejs,postgres" />
+<img src="https://skillicons.dev/icons?i=aws,postman,py,pytorch,react" />
+</a>
 
-  <img src="https://skillicons.dev/icons?i=docker,express,firebase,java,js,mysql,nodejs,postgres,aws,postman,py,pytorch,react,tailwind" />
+
 
 <br clear="all" />
 
 
-![Web Development](https://github.com/user-attachments/assets/87d9d777-8131-48c0-8790-68ae13d1f04a)
+
 
 <h3 align="left" >Connect with me:</h3>
 <a href="https://www.facebook.com/duyy.me/" target="_blank">
