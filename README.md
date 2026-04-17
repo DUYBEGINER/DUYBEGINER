@@ -30,10 +30,10 @@
 <h2>My stats ⭐</h2>
 
 <div align="center">
-<img alt="DUYBEGINER's GitHub stats" src="https://myprofilestat.vercel.app/api?username=DUYBEGINER&show_icons=true&theme=radical"/>
-<img alt="Top langs" src="https://myprofilestat.vercel.app/api/top-langs/?username=DUYBEGINER&layout=compact&&langs_count=8&theme=radical"/>
+<img alt="duypham-dev's GitHub stats" src="https://myprofilestat.vercel.app/api?username=duypham-dev&show_icons=true&theme=radical"/>
+<img alt="Top langs" src="https://myprofilestat.vercel.app/api/top-langs/?username=duypham-dev&layout=compact&&langs_count=8&theme=radical"/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-olive-56.vercel.app?user=DUYBEGINER&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-olive-56.vercel.app?user=duypham-dev&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ### <h2>My project 📌</h2>
@@ -42,5 +42,5 @@
 
 <div>
 
-[![Readme Card](https://myprofilestat.vercel.app/api/pin/?username=DUYBEGINER&repo=book-recommendation-system-backend&theme=merko)]([https://github.com/DUYBEGINER/book-recommendation-system-backend.git](https://github.com/DUYBEGINER/book-recommendation-system-backend.git))
+[![Readme Card](https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=merko)]([https://github.com/duypham-dev/book-recommendation-system-backend.git](https://github.com/duypham-dev/book-recommendation-system-backend.git))
 </div>
