@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Pham Phuc Duy 👋</h1>
 <h3 align="center">I'm an information technology student with a passion for coding.</h3>
 
-<!-- Thêm GIF và Connect with me -->
-<img src="https://i.ibb.co/Z1HcSPDw/background-removed-background-removed.png" width="300" align="left"/>
-
 <br/>
 
 
